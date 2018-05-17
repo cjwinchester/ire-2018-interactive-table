@@ -23,4 +23,6 @@ This template uses two Javascript libraries:
 - [Tabletop.js](https://github.com/jsoma/tabletop), to get your data out of Google Sheets in one piece, and
 - [List.js](http://listjs.com/), to handle searching and sorting
 
+[Here's a demo](http://codywinchester.com/ire-2018-interactive-table/)
+
 <!--TK: instructions on setting up sheet, etc.-->
