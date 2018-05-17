@@ -1,6 +1,6 @@
 (function(Tabletop, List) {
 
-  //
+  // replace this string with your share URL
   var SHEET_ID = 'https://docs.google.com/spreadsheets/d/1kq-RlKy6a-eza5m4Pz8B8KjVS08mxgKnu96Mtnwryok/edit?usp=sharing';
 
 
